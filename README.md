@@ -7,7 +7,7 @@ This project is a middleware of express.js framework.
 
 Before initialize a express-tful.
 
-    const  exprestful = require('express-tful');
+    const  exprestful = require('@turkish/express-tful');
     var exful = exprestful();
 
 Then you can set the api. You can enter boolean, number, string, object, function or promise. And you can add middleware as 3. parameter.
