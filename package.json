@@ -1,6 +1,6 @@
 {
-  "name": "express-tful",
-  "version": "0.1.0",
+  "name": "@turkish/express-tful",
+  "version": "0.1.1",
   "description": "api builder on express framework",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
   "author": "Erdem Ayaz",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.17.1"
   }
 }
