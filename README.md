@@ -59,3 +59,6 @@ Finally you must mount to express with use:
 
     app.use('/api', exful);
 
+You can visit the repository:
+
+https://github.com/erdemayaz/express-tful
