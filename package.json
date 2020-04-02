@@ -1,0 +1,19 @@
+{
+  "name": "express-tful",
+  "version": "0.1.0",
+  "description": "api builder on express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "express"
+  ],
+  "author": "Erdem Ayaz",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
